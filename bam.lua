@@ -1,3 +1,5 @@
+-- test github permissions
+
 CheckVersion("0.5")
 
 Import("configure.lua")
